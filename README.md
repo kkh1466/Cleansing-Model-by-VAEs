@@ -7,5 +7,5 @@ cuDNN: 8.9.7
 TensorFlow: 2.16.1  
 The GPVAE model has been upgraded to TensorFlow 2.16.1 to resolve memory issues. The previous training codes were written in an older version of TensorFlow.
 
-A Docker image containing the environment is available:
+A Docker image containing the environment is available:  
 👉 kimkanghee1466/kkh
